@@ -29,7 +29,7 @@ I am a second-year master’s student at China University of Geosciences (Wuhan)
 
 Control2Geo: Data-Efficient Monocular Geometry Estimation with Diffusion-Based Controller Priors
 
-**Yu Liu**, Kun Sun^{*}, KunQian Li, Chang Tang, Yuhua Qian
+**Yu Liu**, Kun Sun$^{*}$, KunQian Li, Chang Tang, Yuhua Qian
 
 [**Code**](https://github.com/Lioely/Control2Geo) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
@@ -41,7 +41,7 @@ Control2Geo: Data-Efficient Monocular Geometry Estimation with Diffusion-Based C
 
 [TPDepth: Leveraging Text Prompts with ControlNet to Boost Diffusion-based Depth Estimation](https://dl.acm.org/doi/10.1145/3746027.3755384)
 
-**Yu Liu**, Kun Sun^{*}, Chang Tang, Yuhua Qian, Xin Li
+**Yu Liu**, Kun Sun$^{*}$, Chang Tang, Yuhua Qian, Xin Li
 
 [**Code**](https://github.com/Lioely/TPDepth) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
@@ -49,8 +49,9 @@ Control2Geo: Data-Efficient Monocular Geometry Estimation with Diffusion-Based C
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Kaggle: Image Matching Challenge 2024-Hexathlon(69/929 Bronze Medal🥉)
+- Kaggle: Image Matching Challenge 2023(38/494 Silver Medal🥈)
+- Kaggle: RSNA 2022 Cervical Spine Fracture Detection(29/883 Silver Medal🥈)
 
 # 📖 Educations
 - *2024.09 - now*,  China University of Geosciences (Wuhan)
