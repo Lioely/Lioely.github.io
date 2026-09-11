@@ -25,6 +25,17 @@ I am a third-year master’s student at China University of Geosciences (Wuhan),
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_img/RePriFusion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+RePriFusion: Retinex-Based Low-Light Image Enhancement via Prior-Specific Fusion
+
+**Yu Liu**, Kun Sun$^{*}$, KunQian Li, Chang Tang, Qingshan Xu
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_img/Control2Geo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -37,14 +48,26 @@ Control2Geo: Data-Efficient Monocular Geometry Estimation with Diffusion-Based C
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT2026</div><img src='images/paper_img/TextBridgeDepth.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+TextBridgeDepth: A Text-Guided Latent Diffusion Bridge Model for Monocular Depth Estimation
+
+**Yu Liu**, Kun Sun$^{*}$, KunQian Li, Chang Tang, Yuhua Qian
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/11614007) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM2025</div><img src='images/paper_img/TPDepth-acmmm2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TPDepth: Leveraging Text Prompts with ControlNet to Boost Diffusion-based Depth Estimation](https://dl.acm.org/doi/10.1145/3746027.3755384)
+TPDepth: Leveraging Text Prompts with ControlNet to Boost Diffusion-based Depth Estimation
 
 **Yu Liu**, Kun Sun$^{*}$, Chang Tang, Yuhua Qian, Xin Li
 
-[**Code**](https://github.com/Lioely/TPDepth) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://dl.acm.org/doi/10.1145/3746027.3755384)  [**Code**](https://github.com/Lioely/TPDepth) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
