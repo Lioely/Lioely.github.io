@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year master’s student at China University of Geosciences (Wuhan), advised by Prof. [Kun Sun](https://grzy.cug.edu.cn/sunkun/zh_CN/index.htm). I received my bachelor’s degree from China University of Geosciences (Wuhan) in 2024. My research interests include 3D vision, embodied intelligence, and visual world models.
+I am a third-year master’s student at China University of Geosciences (Wuhan), advised by Prof. [Kun Sun](https://grzy.cug.edu.cn/sunkun/zh_CN/index.htm). I received my bachelor’s degree from China University of Geosciences (Wuhan) in 2024. My research interests include 3D vision, embodied intelligence, and visual world models.
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One Paper has been accepted by TCSVT2026 (CCF B)
 - *2025.08*: &nbsp;🎉🎉 One Paper has been accepted by ACM MM2025 (CCF A)
 
 # 📝 Publications 
