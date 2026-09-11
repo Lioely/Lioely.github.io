@@ -25,7 +25,7 @@ I am a third-year master’s student at China University of Geosciences (Wuhan),
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_img/RePriFusion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_img/RePriFusion.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 RePriFusion: Retinex-Based Low-Light Image Enhancement via Prior-Specific Fusion
@@ -36,7 +36,7 @@ RePriFusion: Retinex-Based Low-Light Image Enhancement via Prior-Specific Fusion
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_img/Control2Geo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_img/Control2Geo.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Control2Geo: Data-Efficient Monocular Geometry Estimation with Diffusion-Based Controller Priors
@@ -48,7 +48,7 @@ Control2Geo: Data-Efficient Monocular Geometry Estimation with Diffusion-Based C
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT2026</div><img src='images/paper_img/TextBridgeDepth.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT2026</div><img src='images/paper_img/TextBridgeDepth.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 TextBridgeDepth: A Text-Guided Latent Diffusion Bridge Model for Monocular Depth Estimation
@@ -60,7 +60,7 @@ TextBridgeDepth: A Text-Guided Latent Diffusion Bridge Model for Monocular Depth
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM2025</div><img src='images/paper_img/TPDepth-acmmm2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM2025</div><img src='images/paper_img/TPDepth-acmmm2025.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 TPDepth: Leveraging Text Prompts with ControlNet to Boost Diffusion-based Depth Estimation
