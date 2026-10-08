@@ -25,6 +25,16 @@ I am a third-year master’s student at China University of Geosciences (Wuhan),
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_img/GeoSupSplat.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+GeoSupSplat: Generalizable Sparse-View Surface Reconstruction via Geometry-Supervised Gaussian Splatting
+
+**Yu Liu**, Kun Sun$^{*}$, KunQian Li, Chang Tang, Yuhua Qian
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_img/RePriFusion.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
