@@ -20,7 +20,8 @@ redirect_from:
 I am a third-year master’s student at China University of Geosciences (Wuhan), advised by Prof. [Kun Sun](https://grzy.cug.edu.cn/sunkun/zh_CN/index.htm). I received my bachelor’s degree from China University of Geosciences (Wuhan) in 2024. My research interests include 3D vision, embodied intelligence, and visual world models.
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 One Paper has been accepted by TCSVT2026 (CCF B, IF=8.4)
+- *2026.10*: &nbsp;🎉🎉 One Paper has been accepted by Pattern Recognition (CCF B, IF=9.1)
+- *2026.05*: &nbsp;🎉🎉 One Paper has been accepted by TCSVT2026 (CCF B, IF=11.1)
 - *2025.08*: &nbsp;🎉🎉 One Paper has been accepted by ACM MM2025 (CCF A)
 
 # 📝 Publications 
@@ -46,7 +47,7 @@ RePriFusion: Retinex-Based Low-Light Image Enhancement via Prior-Specific Fusion
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_img/Control2Geo.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/paper_img/Control2Geo.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Control2Geo: Data-Efficient Monocular Geometry Estimation with Diffusion-Based Controller Priors
