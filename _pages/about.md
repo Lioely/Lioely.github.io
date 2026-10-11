@@ -50,7 +50,7 @@ RePriFusion: Retinex-Based Low-Light Image Enhancement via Prior-Specific Fusion
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/paper_img/Control2Geo.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Control2Geo: Data-Efficient Monocular Geometry Estimation with Diffusion-Based Controller Priors
+Control2Geo: Monocular Geometry Estimation with Diffusion-Based Controller Priors
 
 **Yu Liu**, Kun Sun$^{*}$, KunQian Li, Chang Tang, Yuhua Qian
 
