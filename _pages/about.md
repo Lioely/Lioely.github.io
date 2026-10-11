@@ -93,7 +93,10 @@ TPDepth: Leveraging Text Prompts with ControlNet to Boost Diffusion-based Depth 
 <div class="experience-item">
   <img src="images/tencent-logo.png" alt="Tencent">
   <span class="experience-role">Intern, Tencent</span>
-  <span class="experience-meta"><em>Shenzhen, China. 2026.06 - 2026.09</em></span>
+  <span class="experience-meta">
+    <span>Shenzhen, China</span>
+    <em>2026.06 - 2026.09</em>
+  </span>
 </div>
 
 # 📖 Educations
