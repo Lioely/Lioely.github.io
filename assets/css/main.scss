@@ -43,48 +43,69 @@
 .paper-box {
     display: flex;
     justify-content: left;
-    align-items: center;
+    align-items: flex-start;
     flex-direction: row;
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
-    
+    padding: 1.35em 0;
 
     .paper-box-image{
         justify-content: center;
         display: flex;
         width: 100%;
         order: 2;
+
+        > div {
+            position: relative;
+            display: inline-block;
+            line-height: 0;
+        }
+
         img {
-            max-width: 400px;
+            width: auto;
+            max-width: 240px;
+            max-height: 156px;
+            height: auto;
             box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
+            object-fit: contain;
         }
     }
-    
+
     .paper-box-text{
         max-width: 100%;
         order: 1;
+        font-size: 1.05em;
+        line-height: 1.45;
+
+        p:first-of-type {
+            font-size: 1.2em;
+            line-height: 1.35;
+            margin-bottom: 0.35em;
+        }
     }
-    
+
     @include breakpoint($medium) {
+        flex-wrap: nowrap;
+        align-items: center;
+
         .paper-box-image{
             justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
+            flex: 0 0 240px;
+            width: 240px;
+            min-width: 0;
+            max-width: 30%;
             order: 1;
         }
-        
+
         .paper-box-text{
             justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
+            flex: 1 1 auto;
+            min-width: 0;
+            padding-left: 1.5em;
+            max-width: none;
             order: 2;
         }
-
     }
-
-
 }
 
 $scroll_offset : 2em;
@@ -106,4 +127,32 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+}
+
+.experience-item {
+    display: flex;
+    align-items: center;
+    gap: 1.25rem;
+    margin: 0.75em 0 1.25em;
+
+    img {
+        width: 168px;
+        height: auto;
+        flex: 0 0 auto;
+        box-shadow: none;
+    }
+
+    @media (max-width: 600px) {
+        img {
+            width: 132px;
+        }
+    }
+
+    .experience-role {
+        font-weight: 600;
+    }
+
+    .experience-meta {
+        margin-top: 0.2em;
+    }
 }

@@ -87,6 +87,16 @@ TPDepth: Leveraging Text Prompts with ControlNet to Boost Diffusion-based Depth 
 - Kaggle: Image Matching Challenge 2023(38/494 Silver Medal🥈)
 - Kaggle: RSNA 2022 Cervical Spine Fracture Detection(29/883 Silver Medal🥈)
 
+# 💼 Experience
+
+<div class="experience-item">
+  <img src="images/tencent-logo.svg" alt="Tencent">
+  <div>
+    <div class="experience-role">Intern, Tencent</div>
+    <div class="experience-meta"><em>2026.06 - 2026.09</em></div>
+  </div>
+</div>
+
 # 📖 Educations
 - *2024.09 - now*,  China University of Geosciences (Wuhan)
 - *2020.09 - 2024.06*,  China University of Geosciences (Wuhan)
