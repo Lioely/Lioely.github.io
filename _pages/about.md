@@ -86,9 +86,10 @@ TPDepth: Leveraging Text Prompts with ControlNet to Boost Diffusion-based Depth 
 
 
 # 🎖 Honors and Awards
-- Kaggle: Image Matching Challenge 2024-Hexathlon(69/929 Bronze Medal🥉)
-- Kaggle: Image Matching Challenge 2023(38/494 Silver Medal🥈)
-- Kaggle: RSNA 2022 Cervical Spine Fracture Detection(29/883 Silver Medal🥈)
+- 2026.10 National Scholarship
+- 2024.06 Kaggle: Image Matching Challenge 2024-Hexathlon(69/929 Bronze Medal🥉)
+- 2023.06 Kaggle: Image Matching Challenge 2023(38/494 Silver Medal🥈)
+- 2022.10 Kaggle: RSNA 2022 Cervical Spine Fracture Detection(29/883 Silver Medal🥈)
 
 # 💼 Experience
 
