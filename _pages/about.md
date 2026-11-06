@@ -33,7 +33,6 @@ GeoSupSplat: Generalizable Sparse-View Surface Reconstruction via Geometry-Super
 
 **Yu Liu**, Kun Sun$^{*}$, KunQian Li, Chang Tang, Yuhua Qian
 
-[**Paper**](https://openreview.net/pdf?id=AhvwK9rcLG) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
@@ -44,7 +43,6 @@ RePriFusion: Retinex-Based Low-Light Image Enhancement via Prior-Specific Fusion
 
 **Yu Liu**, Kun Sun$^{*}$, KunQian Li, Chang Tang, Qingshan Xu
 
-[**Paper**](https://openreview.net/pdf?id=DQ8gS7iPfK) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
