@@ -39,16 +39,6 @@ MonoGeoDreamer: Reading Geometry from a Frozen Text-to-Image Generator
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_img/GeoSupSplat.png' alt="GeoSupSplat" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-GeoSupSplat: Generalizable Sparse-View Surface Reconstruction via Geometry-Supervised Gaussian Splatting
-
-**Yu Liu**, Kun Sun$^{*}$, KunQian Li, Chang Tang, Yuhua Qian
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/paper_img/Control2Geo.png' alt="Control2Geo" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
