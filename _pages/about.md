@@ -26,7 +26,20 @@ I am a third-year master’s student at China University of Geosciences (Wuhan),
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_img/GeoSupSplat.png' alt="sym" width="80%"></div></div>
+<h2 class="pub-category" id="3d-vision">3D Vision</h2>
+
+<div class="pub-group">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_img/MonoGeoDreamer.jpg' alt="MonoGeoDreamer" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+MonoGeoDreamer: Reading Geometry from a Frozen Text-to-Image Generator
+
+**Yu Liu**, Kun Sun$^{*}$
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_img/GeoSupSplat.png' alt="GeoSupSplat" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 GeoSupSplat: Generalizable Sparse-View Surface Reconstruction via Geometry-Supervised Gaussian Splatting
@@ -36,18 +49,7 @@ GeoSupSplat: Generalizable Sparse-View Surface Reconstruction via Geometry-Super
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_img/RePriFusion.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-RePriFusion: Retinex-Based Low-Light Image Enhancement via Prior-Specific Fusion
-
-**Yu Liu**, Kun Sun$^{*}$, KunQian Li, Chang Tang, Qingshan Xu
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/paper_img/Control2Geo.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pattern Recognition</div><img src='images/paper_img/Control2Geo.png' alt="Control2Geo" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Control2Geo: Monocular Geometry Estimation with Diffusion-Based Controller Priors
@@ -58,8 +60,7 @@ Control2Geo: Monocular Geometry Estimation with Diffusion-Based Controller Prior
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT2026</div><img src='images/paper_img/TextBridgeDepth.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT2026</div><img src='images/paper_img/TextBridgeDepth.png' alt="TextBridgeDepth" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 TextBridgeDepth: A Text-Guided Latent Diffusion Bridge Model for Monocular Depth Estimation
@@ -70,8 +71,7 @@ TextBridgeDepth: A Text-Guided Latent Diffusion Bridge Model for Monocular Depth
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM2025</div><img src='images/paper_img/TPDepth-acmmm2025.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM2025</div><img src='images/paper_img/TPDepth-acmmm2025.png' alt="TPDepth" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 TPDepth: Leveraging Text Prompts with ControlNet to Boost Diffusion-based Depth Estimation
@@ -81,6 +81,42 @@ TPDepth: Leveraging Text Prompts with ControlNet to Boost Diffusion-based Depth 
 [**Paper**](https://dl.acm.org/doi/10.1145/3746027.3755384)  [**Code**](https://github.com/Lioely/TPDepth) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
+<button type="button" class="paper-more-toggle" hidden>Show more</button>
+</div>
+
+<h2 class="pub-category" id="low-light-vision">Low light vision</h2>
+
+<div class="pub-group">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_img/RePriFusion.png' alt="RePriFusion" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+RePriFusion: Retinex-Based Low-Light Image Enhancement via Prior-Specific Fusion
+
+**Yu Liu**, Kun Sun$^{*}$, KunQian Li, Chang Tang, Qingshan Xu
+
+</div>
+</div>
+<button type="button" class="paper-more-toggle" hidden>Show more</button>
+</div>
+
+<script>
+document.querySelectorAll('.pub-group').forEach(function (group) {
+  var papers = group.querySelectorAll('.paper-box');
+  var button = group.querySelector('.paper-more-toggle');
+  if (!button || papers.length <= 5) return;
+  var extra = Array.prototype.slice.call(papers, 5);
+  var expanded = false;
+  extra.forEach(function (paper) { paper.hidden = true; });
+  button.hidden = false;
+  button.setAttribute('aria-expanded', 'false');
+  button.addEventListener('click', function () {
+    expanded = !expanded;
+    extra.forEach(function (paper) { paper.hidden = !expanded; });
+    button.setAttribute('aria-expanded', expanded ? 'true' : 'false');
+    button.textContent = expanded ? 'Show less' : 'Show more';
+  });
+});
+</script>
 
 
 # 🎖 Honors and Awards

@@ -118,6 +118,28 @@ h1:before, .anchor:before {
     margin-top: -$scroll_offset;
 }
 
+h2.pub-category {
+    font-size: 1.15em;
+    margin: 1.35em 0 0.15em;
+    padding-bottom: 0.35em;
+    border-bottom: 1px solid #e6e6e6;
+}
+
+.paper-more-toggle {
+    display: inline-block;
+    margin: 0.2em 0 0.8em;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    color: #00369f;
+    font-size: 0.95em;
+    cursor: pointer;
+
+    &[hidden] {
+        display: none;
+    }
+}
+
 .badge {
     padding: 0.2em 1rem;
     position: absolute;
