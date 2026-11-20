@@ -74,7 +74,7 @@ TPDepth: Leveraging Text Prompts with ControlNet to Boost Diffusion-based Depth 
 <button type="button" class="paper-more-toggle" hidden>Show more</button>
 </div>
 
-<h2 class="pub-category" id="low-light-vision">Low light vision</h2>
+<h2 class="pub-category" id="low-level-vision">Low light vision</h2>
 
 <div class="pub-group">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/paper_img/RePriFusion.png' alt="RePriFusion" width="80%"></div></div>
